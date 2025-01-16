@@ -1,0 +1,4 @@
+Elma,Meyve,2.5,100
+Süt,İçecek,15.0,50
+Karpuz,Meyve,10.0,100
+Çikolata,Atıştırmalık,20.0,100
